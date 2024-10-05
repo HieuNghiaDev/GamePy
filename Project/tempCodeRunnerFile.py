@@ -1,0 +1,1 @@
+pygame.display.setCaption("Bắn UFO")
